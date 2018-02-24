@@ -1,0 +1,14 @@
+Playlist: uhitzel/6iCAQD1aQOGlZnws0ApuLy
+Name: "Summer House"
+Owner: "Uli Hitzel"
+Description: "Tropical feelings that you can enjoy all day."
+URL: "https://open.spotify.com/user/uhitzel/playlist/6iCAQD1aQOGlZnws0ApuLy"
+# of tracks:      114 tracks
+acousticness: 0.143576105263
+danceability: 0.684192982456
+energy: 0.713842105263
+instrumentalness: 0.117305359474
+Liveness: 0.158484210526
+Loudness: -6.64822807018 dB
+Speechiness: 0.0490649122807
+Tempo: 116.584561404 bpm
