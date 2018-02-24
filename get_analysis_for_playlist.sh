@@ -70,3 +70,7 @@ echo "Speechiness: $(python means.py $out.speechiness)"
 # tempo
 cat $out.f.* | jq '.audio_features[].tempo' > $out.tempo
 echo "Tempo: $(python means.py $out.tempo) bpm"
+
+# valence
+cat $out.f.* | jq '.audio_features[].valence' > $out.valence
+echo "Valence: $(python means.py $out.valence)"
